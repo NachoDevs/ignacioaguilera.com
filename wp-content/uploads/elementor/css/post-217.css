@@ -6,7 +6,9 @@
 .elementor-217 .elementor-element.elementor-element-40177ae0 {padding: 100px 0px 100px 0px;}
 .elementor-217 .elementor-element.elementor-element-0d3a4ba > .elementor-widget-container {margin: 0% 10% 0% 0%;}
 .elementor-217 .elementor-element.elementor-element-45cd969 .elementor-spacer-inner {height: 1em;}
+.elementor-217 .elementor-element.elementor-element-44ce5982 .elementor-text-editor {text-align: justify;}
 .elementor-217 .elementor-element.elementor-element-44ce5982 {font-weight: bold;}
+.elementor-217 .elementor-element.elementor-element-e56ab06 .elementor-text-editor {text-align: justify;}
 .elementor-217 .elementor-element.elementor-element-4ec76f84 .elementor-heading-title {text-transform: capitalize;}
 .elementor-217 .elementor-element.elementor-element-4ec76f84 > .elementor-widget-container {margin: 20px 0px 0px 0px;}
 .elementor-217 .elementor-element.elementor-element-88095be > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap {align-content: flex-start;align-items: flex-start;}
@@ -35,6 +37,7 @@ body:not(.rtl) .elementor-217 .elementor-element.elementor-element-9f92279 .elem
 .elementor-217 .elementor-element.elementor-element-9f92279 .elementor-icon-list-icon i {font-size: 15px;}
 .elementor-217 .elementor-element.elementor-element-9f92279 .elementor-icon-list-icon svg {width: 15px;}
 .elementor-217 .elementor-element.elementor-element-9f92279 .elementor-icon-list-text {padding-left: 0px;}
+.elementor-217 .elementor-element.elementor-element-4b1e1fb .elementor-spacer-inner {height: 20px;}
 .elementor-217 .elementor-element.elementor-element-f8bc81c .tl-heading h4 {color: #333;}
 .elementor-217 .elementor-element.elementor-element-f8bc81c .be-pack .timeline-panel, .be-pack .timeline-panel p {color: #333;}
 .elementor-217 .elementor-element.elementor-element-f8bc81c .be-pack .timeline-panel {background-color: #fff;}
@@ -51,7 +54,8 @@ body.elementor-page-217:not(.elementor-motion-effects-element-type-background), 
 	.elementor-217 .elementor-element.elementor-element-b59566c > .elementor-element-populated {margin: 0px 20px 0px 0px;padding: 0px 0px 0px 0px;}
 	.elementor-217 .elementor-element.elementor-element-31a2b32 > .elementor-element-populated {margin: 0px 20px 0px 0px;padding: 0px 0px 0px 0px;}
 	.elementor-217 .elementor-element.elementor-element-cf34b9c .elementor-divider-separator {width: 0%;}
-	.elementor-217 .elementor-element.elementor-element-6b0d72f > .elementor-element-populated {margin: 40px 0px 0px 0px;padding: 0px 0px 0px 0px;}}
+	.elementor-217 .elementor-element.elementor-element-6b0d72f > .elementor-element-populated {margin: 40px 0px 0px 0px;padding: 0px 0px 0px 0px;}
+	.elementor-217 .elementor-element.elementor-element-4b1e1fb .elementor-spacer-inner {height: 10px;}}
 @media (max-width:767px) {.elementor-217 .elementor-element.elementor-element-3d99e122 .elementor-heading-title {font-size: 30px;}
 	.elementor-217 .elementor-element.elementor-element-40177ae0 {padding: 50px 30px 50px 30px;}
 	.elementor-217 .elementor-element.elementor-element-0d3a4ba {text-align: center;}
@@ -62,7 +66,8 @@ body.elementor-page-217:not(.elementor-motion-effects-element-type-background), 
 	.elementor-217 .elementor-element.elementor-element-cf34b9c .elementor-divider-separator {width: 1%;}
 	.elementor-217 .elementor-element.elementor-element-cf34b9c .elementor-divider {padding-top: 2px;padding-bottom: 2px;}
 	.elementor-217 .elementor-element.elementor-element-cf34b9c > .elementor-widget-container {padding: 0px 0px 0px 0px;}
-	.elementor-217 .elementor-element.elementor-element-6b0d72f > .elementor-element-populated {margin: 40px 0px 0px 0px;}}
+	.elementor-217 .elementor-element.elementor-element-6b0d72f > .elementor-element-populated {margin: 40px 0px 0px 0px;}
+	.elementor-217 .elementor-element.elementor-element-4b1e1fb .elementor-spacer-inner {height: 10px;}}
 @media (min-width:768px) {.elementor-217 .elementor-element.elementor-element-2828f573 {width: 50%;}
 	.elementor-217 .elementor-element.elementor-element-48096891 {width: 50%;}
 	.elementor-217 .elementor-element.elementor-element-b59566c {width: 48%;}

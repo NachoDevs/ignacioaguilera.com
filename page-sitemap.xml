@@ -2,11 +2,18 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://ignacioaguilera.com/</loc>
-		<lastmod>2020-08-17T19:32:54+00:00</lastmod>
+		<lastmod>2020-08-25T09:58:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://ignacioaguilera.com/about/</loc>
+		<lastmod>2020-08-24T07:56:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://ignacioaguilera.com/wp-content/uploads/2020/05/me-e1590472331186-1024x853.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://ignacioaguilera.com/portfolio/</loc>
-		<lastmod>2020-08-17T19:33:33+00:00</lastmod>
+		<lastmod>2020-08-25T09:56:11+00:00</lastmod>
 		<image:image>
 			<image:loc>https://ignacioaguilera.com/wp-content/uploads/2020/08/AI_Systems_img.png</image:loc>
 		</image:image>
@@ -24,13 +31,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://ignacioaguilera.com/wp-content/uploads/2020/05/mayhemHeroes-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://ignacioaguilera.com/about/</loc>
-		<lastmod>2020-08-24T07:56:02+00:00</lastmod>
-		<image:image>
-			<image:loc>https://ignacioaguilera.com/wp-content/uploads/2020/05/me-e1590472331186-1024x853.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

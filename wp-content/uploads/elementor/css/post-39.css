@@ -1,4 +1,5 @@
-.elementor-39 .elementor-element.elementor-element-5939a86c > .elementor-container {max-width: 700px;}
+.elementor-39 .elementor-element.elementor-element-5939a86c > .elementor-container {max-width: 700px;min-height: 100vh;}
+.elementor-39 .elementor-element.elementor-element-5939a86c > .elementor-container:after {content: "";min-height: inherit;}
 .elementor-39 .elementor-element.elementor-element-5939a86c:not(.elementor-motion-effects-element-type-background), .elementor-39 .elementor-element.elementor-element-5939a86c > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://ignacioaguilera.com/wp-content/uploads/2020/08/IMG_20180512_120816-scaled.jpg");background-position: top center;background-size: cover;}
 .elementor-39 .elementor-element.elementor-element-5939a86c > .elementor-background-overlay {background-color: transparent;background-image: radial-gradient(at center center,#153243 0%,#1a6c7a 100%);opacity: .5;transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-39 .elementor-element.elementor-element-5939a86c {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
@@ -12,6 +13,7 @@
 .elementor-39 .elementor-element.elementor-element-31fcced2 .elementor-button {fill: #6441a5;color: #6441a5;background-color: #fff;border-style: solid;border-width: 2px 2px 2px 2px;border-color: #fff;border-radius: 0px 0px 0px 0px;}
 .elementor-39 .elementor-element.elementor-element-31fcced2 .elementor-button:hover, .elementor-39 .elementor-element.elementor-element-31fcced2 .elementor-button:focus {color: #fff;background-color: #6441a5;border-color: #6441a5;}
 .elementor-39 .elementor-element.elementor-element-31fcced2 .elementor-button:hover svg, .elementor-39 .elementor-element.elementor-element-31fcced2 .elementor-button:focus svg {fill: #fff;}
+.elementor-39 .elementor-element.elementor-element-354137e .elementor-spacer-inner {height: 50px;}
 .elementor-39 .elementor-element.elementor-element-5b930ae3 .elementor-button {fill: #fff;color: #fff;border-style: solid;border-width: 2px 2px 2px 2px;border-color: #fff;border-radius: 0px 0px 0px 0px;}
 .elementor-39 .elementor-element.elementor-element-5b930ae3 .elementor-button:hover, .elementor-39 .elementor-element.elementor-element-5b930ae3 .elementor-button:focus {border-color: #6441a5;}
 .elementor-39 .elementor-element.elementor-element-da36d9d > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap {align-content: center;align-items: center;}
@@ -33,12 +35,17 @@
 .elementor-39 .elementor-element.elementor-element-c459779 .elementor-social-icon:not(:last-child) {margin-right: 50px;}
 body.elementor-page-39:not(.elementor-motion-effects-element-type-background), body.elementor-page-39 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;}
 @media (max-width:1024px) and (min-width:768px) {.elementor-39 .elementor-element.elementor-element-efbc4d6 {width: 100%;}}
-@media (max-width:1024px) {.elementor-39 .elementor-element.elementor-element-5939a86c {padding: 100px 50px 50px 50px;}
+@media (max-width:1024px) {.elementor-39 .elementor-element.elementor-element-5939a86c > .elementor-container {min-height: 40vh;}
+	.elementor-39 .elementor-element.elementor-element-5939a86c > .elementor-container:after {content: "";min-height: inherit;}
+	.elementor-39 .elementor-element.elementor-element-5939a86c {padding: 100px 50px 50px 50px;}
 	.elementor-39 .elementor-element.elementor-element-da36d9d {padding: 50px 50px 50px 50px;}}
-@media (max-width:767px) {.elementor-39 .elementor-element.elementor-element-5939a86c {padding: 150px 20px 50px 20px;}
+@media (max-width:767px) {.elementor-39 .elementor-element.elementor-element-5939a86c > .elementor-container {min-height: 100vh;}
+	.elementor-39 .elementor-element.elementor-element-5939a86c > .elementor-container:after {content: "";min-height: inherit;}
+	.elementor-39 .elementor-element.elementor-element-5939a86c {padding: 150px 20px 50px 20px;}
 	.elementor-39 .elementor-element.elementor-element-ffa1734 > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
 	.elementor-39 .elementor-element.elementor-element-143e9c37 {margin-top: 20px;margin-bottom: 0px;}
 	.elementor-39 .elementor-element.elementor-element-31fcced2 > .elementor-widget-container {margin: 20px 0px 0px 0px;}
+	.elementor-39 .elementor-element.elementor-element-354137e .elementor-spacer-inner {height: 1vh;}
 	.elementor-39 .elementor-element.elementor-element-da36d9d {padding: 60px 30px 60px 30px;}
 	.elementor-39 .elementor-element.elementor-element-efbc4d6 > .elementor-element-populated {padding: 0px 0px 0px 0px;}
 	.elementor-39 .elementor-element.elementor-element-cbe4592 > .elementor-widget-container {padding: 0px 0px 0px 0px;}}

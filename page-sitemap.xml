@@ -5,8 +5,19 @@
 		<lastmod>2021-03-17T07:22:22+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://ignacioaguilera.com/about/</loc>
+		<lastmod>2023-12-31T11:54:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://ignacioaguilera.com/wp-content/uploads/2020/05/me-e1590472331186-1024x853.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://ignacioaguilera.com/portfolio/</loc>
-		<lastmod>2020-08-25T09:56:11+00:00</lastmod>
+		<lastmod>2023-12-31T12:11:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://ignacioaguilera.com/wp-content/uploads/2023/12/Transformers_Reactivate_Key-Art_SQUARE_1080_x_1080_Buried_LOGO_png_jpgcopy-1024x1024.jpg</image:loc>
+			<image:caption><![CDATA[Transformers Reactivate logo]]></image:caption>
+		</image:image>
 		<image:image>
 			<image:loc>https://ignacioaguilera.com/wp-content/uploads/2020/08/AI_Systems_img.png</image:loc>
 		</image:image>
@@ -24,13 +35,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://ignacioaguilera.com/wp-content/uploads/2020/05/mayhemHeroes-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://ignacioaguilera.com/about/</loc>
-		<lastmod>2022-01-08T13:11:44+00:00</lastmod>
-		<image:image>
-			<image:loc>https://ignacioaguilera.com/wp-content/uploads/2020/05/me-e1590472331186-1024x853.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
